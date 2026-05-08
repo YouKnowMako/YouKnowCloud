@@ -2,7 +2,6 @@
   "latest_version": "0.0.1",
   "download_link": "https://google.com",
   "base_api": [
-    "https://api.vasl.fun/",
     "https://api.vasl.vayrex.ir/"
   ]
 }
